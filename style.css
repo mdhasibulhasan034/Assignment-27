@@ -1,0 +1,20 @@
+.about{}
+.about-img{
+    height: 190px;
+}
+
+.select{
+    width: 45%;
+}
+
+.according-color{
+    border: none;
+}
+
+.extra{
+    border-top: 1px solid #10b6de;
+}
+
+.carousel-item img{
+    width: 100%;
+}
